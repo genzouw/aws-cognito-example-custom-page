@@ -11,7 +11,7 @@
   "dependencies": {
     "amazon-cognito-identity-js": "^3.0.12",
     "aws-sdk": "^2.468.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsbn": "^1.1.0",
     "moment": "^2.24.0",
     "sjcl": "^1.0.8"
